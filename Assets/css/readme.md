@@ -39,7 +39,7 @@ descripcion de secciones:
 * Footer
 
 clases:
--------* 
+-------
 * navbar__logo
 * navbar__lista
 * navbar__links
@@ -65,10 +65,17 @@ clases:
 * footer__icono
 * footer_lista
 * footer_links
+
+
+ dentro del html sale el cod de las dependencias antes mencionadas
+ -----------------------------------------------------------------
+
+ dentro del Asset entan las carpetas con sus respectivos archivos , tanto de fuentes , colores , imagenes y hoja de estilo css que usare para el proyecto
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
  ![47374803_2228141334113315_6844488448733085696_n](https://user-images.githubusercontent.com/44588089/49523373-69dafc80-f888-11e8-92d6-e0ff61505c60.jpg)
  ![47278246_2216765985009284_2608139699612549120_n](https://user-images.githubusercontent.com/44588089/49522802-3c418380-f887-11e8-9390-28f47da38ab5.jpg)
  ![47386142_273410286707528_6546841648842670080_n](https://user-images.githubusercontent.com/44588089/49522825-4794af00-f887-11e8-9e5b-540d874b2f7d.jpg)
  ![47366346_264563047569021_542399797630337024_n](https://user-images.githubusercontent.com/44588089/49522874-63985080-f887-11e8-9770-d9d25200cb67.jpg)
  
- dentro del html sale el cod de las dependencias antes mencionadas
- dentro del Asset entan las carpetas con sus respectivos archivos , tanto de fuentes , colores , imagenes y hoja de estilo css que usare para el proyecto
+ 
