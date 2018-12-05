@@ -2,13 +2,13 @@ proyecto Tia Tomare
 ===============
 
 Requerimientos recopilados
->visuales : +Barra de navegacion con logo , enlaces a productos , a pag de blog/contacto/Acerca de <br>
-            +Blog en una pag distinta <br>
-            +Header con color de fonde + titulo y subtitulo <br>
-            +Seccion que muestre 2 articulos mas importantes con  foto y pequeña descipcio <br>
-            +Seccion de "Nosotros" donde se muestre trabajadores y sus actividades <br>
-            +Seccion grande destacada con fondo y boton para compra de productos <br>
-            +Footer con logo , iconos de redes sociales una lista de enlaces igual a la de la barra de navegacion (<-- two spaces)
+>visuales : + Barra de navegacion con logo , enlaces a productos , a pag de blog/contacto/Acerca de <br>
+            + Blog en una pag distinta <br>
+            + Header con color de fonde + titulo y subtitulo <br>
+            + Seccion que muestre 2 articulos mas importantes con  foto y pequeña descipcio <br>
+            + Seccion de "Nosotros" donde se muestre trabajadores y sus actividades <br>
+            + Seccion grande destacada con fondo y boton para compra de productos <br>
+            + Footer con logo , iconos de redes sociales una lista de enlaces igual a la de la barra de navegacion (<-- two spaces)
 >>tecnicos: Sea responsive
             Se pueda hacer transacciones de compra <br>
             Cuando presione icono de red social debe dirigir a la red social correspondiente <br>
