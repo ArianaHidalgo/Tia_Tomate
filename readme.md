@@ -7,20 +7,20 @@ Requerimientos recopilados
 visuales :  
 ----------
 * Barra de navegacion con logo , enlaces a productos , a pag de blog/contacto/Acerca de <br>
-* Blog en una pag distinta <br>
-* Header con color de fonde + titulo y subtitulo <br>
-* Seccion que muestre 2 articulos mas importantes con  foto y pequeña descipcio <br>
-* Seccion de "Nosotros" donde se muestre trabajadores y sus actividades <br>
-* Seccion grande destacada con fondo y boton para compra de productos <br>
+* Blog en una pag distinta
+* Header con color de fonde + titulo y subtitulo
+* Seccion que muestre 2 articulos mas importantes con  foto y pequeña descipcio 
+* Seccion de "Nosotros" donde se muestre trabajadores y sus actividades 
+* Seccion grande destacada con fondo y boton para compra de productos 
 * Footer con logo , iconos de redes sociales una lista de enlaces igual a la de la barra de navegacion (<-- two spaces)
 
 tecnicos: 
 ---------
 * Sea responsive
-* Se pueda hacer transacciones de compra <br>
-* Cuando presione icono de red social debe dirigir a la red social correspondiente <br>
-* Formulario para compra y para crear nuevo usuario <br>
-* Datos debes estar guardados y respaldados en base de datos <br>
+* Se pueda hacer transacciones de compra 
+* Cuando presione icono de red social debe dirigir a la red social correspondiente 
+* Formulario para compra y para crear nuevo usuario 
+* Datos debes estar guardados y respaldados en base de datos 
 
 dependencias:
 ------------
@@ -68,9 +68,9 @@ clases:
 * footer_links
 
  
- dentro del html sale el cod de las dependencias antes mencionadas
+ dentro del html sale el cod de las dependencias antes mencionadas <br>
  dentro de la carpeta Asset hay subcarpetas con sus respectivos archivos; tanto de fuentes , colores , imagenes y hoja de estilo css que usare para el proyecto
- ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
  ![47374803_2228141334113315_6844488448733085696_n](https://user-images.githubusercontent.com/44588089/49523373-69dafc80-f888-11e8-92d6-e0ff61505c60.jpg)
  ![47278246_2216765985009284_2608139699612549120_n](https://user-images.githubusercontent.com/44588089/49522802-3c418380-f887-11e8-9390-28f47da38ab5.jpg)
