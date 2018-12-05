@@ -2,6 +2,7 @@ proyecto Tia Tomare
 ===============
 
 Requerimientos recopilados
+--------------------------
 
 visuales :  
 ----------
@@ -66,11 +67,9 @@ clases:
 * footer_lista
 * footer_links
 
-* 
+ 
  dentro del html sale el cod de las dependencias antes mencionadas
- -----------------------------------------------------------------
-
- dentro del Asset entan las carpetas con sus respectivos archivos , tanto de fuentes , colores , imagenes y hoja de estilo css que usare para el proyecto
+ dentro de la carpeta Asset hay subcarpetas con sus respectivos archivos; tanto de fuentes , colores , imagenes y hoja de estilo css que usare para el proyecto
  ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
  ![47374803_2228141334113315_6844488448733085696_n](https://user-images.githubusercontent.com/44588089/49523373-69dafc80-f888-11e8-92d6-e0ff61505c60.jpg)
