@@ -23,10 +23,10 @@ tecnicos:
 
 dependencias:
 ------------
-Bootstrap javascript-Bootstrap
-Jquery
-Font-Awesome
-Google-font
+* Bootstrap javascript-Bootstrap
+* Jquery
+* Font-Awesome
+* Google-font
 
 descripcion de secciones:
 -------------------------
@@ -66,7 +66,7 @@ clases:
 * footer_lista
 * footer_links
 
-
+* 
  dentro del html sale el cod de las dependencias antes mencionadas
  -----------------------------------------------------------------
 
